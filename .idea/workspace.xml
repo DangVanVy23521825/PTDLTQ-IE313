@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="preprocess, fe, modeling csv (changed-v2) + modeling notebooks">
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="tuning model notebooks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.2.RandomForest_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.2.RandomForest_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4_0_LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4_0_LinearRegression_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4_1_RigdeRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4_1_RigdeRegression_Modeling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,8 @@
       <workItem from="1765348987376" duration="406000" />
       <workItem from="1765349413635" duration="5561000" />
       <workItem from="1765356096378" duration="953000" />
+      <workItem from="1765357097916" duration="660000" />
+      <workItem from="1765462773670" duration="7645000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -130,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765351001294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tuning model notebooks">
+      <option name="closed" value="true" />
+      <created>1765357137481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765357137481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +152,7 @@
     <MESSAGE value="preprocess, fe, modeling csv" />
     <MESSAGE value="preprocess, fe, modeling csv (changed)" />
     <MESSAGE value="preprocess, fe, modeling csv (changed-v2) + modeling notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="preprocess, fe, modeling csv (changed-v2) + modeling notebooks" />
+    <MESSAGE value="tuning model notebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuning model notebooks" />
   </component>
 </project>
