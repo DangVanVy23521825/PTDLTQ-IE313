@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="tuning model notebooks">
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4_0_LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4_0_LinearRegression_Modeling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4_1_RigdeRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4_1_RigdeRegression_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2.1.eda_shape.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.1.eda_shape.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2.2.eda_distribution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.2.eda_distribution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2.3.eda_correlation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.3.eda_correlation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2.4.eda_anova.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.4.eda_anova.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2.5.eda_summary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.5.eda_summary.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,10 @@
       <workItem from="1765349413635" duration="5561000" />
       <workItem from="1765356096378" duration="953000" />
       <workItem from="1765357097916" duration="660000" />
-      <workItem from="1765462773670" duration="7645000" />
+      <workItem from="1765462773670" duration="8870000" />
+      <workItem from="1765632402759" duration="5000" />
+      <workItem from="1765685682687" duration="2736000" />
+      <workItem from="1765688486505" duration="588000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -140,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765357137481</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update model">
+      <option name="closed" value="true" />
+      <created>1765611852156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765611852156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +166,7 @@
     <MESSAGE value="preprocess, fe, modeling csv (changed)" />
     <MESSAGE value="preprocess, fe, modeling csv (changed-v2) + modeling notebooks" />
     <MESSAGE value="tuning model notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuning model notebooks" />
+    <MESSAGE value="update model" />
+    <option name="LAST_COMMIT_MESSAGE" value="update model" />
   </component>
 </project>
