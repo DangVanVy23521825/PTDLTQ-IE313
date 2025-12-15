@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update eda">
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update clean data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1765685682687" duration="2736000" />
       <workItem from="1765688486505" duration="1564000" />
       <workItem from="1765699423125" duration="1636000" />
-      <workItem from="1765771603105" duration="1044000" />
+      <workItem from="1765771603105" duration="3840000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -159,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765689090935</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update clean data">
+      <option name="closed" value="true" />
+      <created>1765773489884</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765773489884</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +182,7 @@
     <MESSAGE value="tuning model notebooks" />
     <MESSAGE value="update model" />
     <MESSAGE value="update eda" />
-    <option name="LAST_COMMIT_MESSAGE" value="update eda" />
+    <MESSAGE value="update clean data" />
+    <option name="LAST_COMMIT_MESSAGE" value="update clean data" />
   </component>
 </project>
