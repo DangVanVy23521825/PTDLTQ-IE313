@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update datapreprocessing + FE">
-      <change beforePath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <workItem from="1765699423125" duration="1636000" />
       <workItem from="1765771603105" duration="3840000" />
       <workItem from="1765776472712" duration="872000" />
-      <workItem from="1765777350613" duration="1321000" />
+      <workItem from="1765777350613" duration="2918000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -185,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765777407734</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update datapreprocessing + FE">
+      <option name="closed" value="true" />
+      <created>1765778776711</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765778776711</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
