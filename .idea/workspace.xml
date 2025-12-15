@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update clean data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update datapreprocessing + FE">
+      <change beforePath="$PROJECT_DIR$/data/final_youtube_v2.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +95,7 @@
       <workItem from="1765688486505" duration="1564000" />
       <workItem from="1765699423125" duration="1636000" />
       <workItem from="1765771603105" duration="3840000" />
+      <workItem from="1765776472712" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -167,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765773489884</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update datapreprocessing + FE">
+      <option name="closed" value="true" />
+      <created>1765776524733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765776524733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +193,7 @@
     <MESSAGE value="update model" />
     <MESSAGE value="update eda" />
     <MESSAGE value="update clean data" />
-    <option name="LAST_COMMIT_MESSAGE" value="update clean data" />
+    <MESSAGE value="update datapreprocessing + FE" />
+    <option name="LAST_COMMIT_MESSAGE" value="update datapreprocessing + FE" />
   </component>
 </project>
