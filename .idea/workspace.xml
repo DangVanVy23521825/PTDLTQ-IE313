@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update model">
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update eda">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/2.1.eda_shape.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.1.eda_shape.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/2.2.eda_distribution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.2.eda_distribution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/2.3.eda_correlation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.3.eda_correlation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/2.4.eda_anova.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.4.eda_anova.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/2.5.eda_summary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2.5.eda_summary.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +91,9 @@
       <workItem from="1765462773670" duration="8870000" />
       <workItem from="1765632402759" duration="5000" />
       <workItem from="1765685682687" duration="2736000" />
-      <workItem from="1765688486505" duration="588000" />
+      <workItem from="1765688486505" duration="1564000" />
+      <workItem from="1765699423125" duration="1636000" />
+      <workItem from="1765771603105" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -153,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765611852156</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update eda">
+      <option name="closed" value="true" />
+      <created>1765689090935</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765689090935</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +173,7 @@
     <MESSAGE value="preprocess, fe, modeling csv (changed-v2) + modeling notebooks" />
     <MESSAGE value="tuning model notebooks" />
     <MESSAGE value="update model" />
-    <option name="LAST_COMMIT_MESSAGE" value="update model" />
+    <MESSAGE value="update eda" />
+    <option name="LAST_COMMIT_MESSAGE" value="update eda" />
   </component>
 </project>
