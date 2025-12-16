@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update datapreprocessing + FE">
-      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" afterDir="false" />
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update LinearRegression model">
+      <change afterPath="$PROJECT_DIR$/notebooks/check.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,8 @@
       <workItem from="1765699423125" duration="1636000" />
       <workItem from="1765771603105" duration="3840000" />
       <workItem from="1765776472712" duration="872000" />
-      <workItem from="1765777350613" duration="2918000" />
+      <workItem from="1765777350613" duration="4956000" />
+      <workItem from="1765847711012" duration="3985000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -192,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765778776711</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update LinearRegression">
+      <option name="closed" value="true" />
+      <created>1765780371996</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765780371996</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update LinearRegression model">
+      <option name="closed" value="true" />
+      <created>1765780939025</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765780939025</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +227,8 @@
     <MESSAGE value="update eda" />
     <MESSAGE value="update clean data" />
     <MESSAGE value="update datapreprocessing + FE" />
-    <option name="LAST_COMMIT_MESSAGE" value="update datapreprocessing + FE" />
+    <MESSAGE value="update LinearRegression" />
+    <MESSAGE value="update LinearRegression model" />
+    <option name="LAST_COMMIT_MESSAGE" value="update LinearRegression model" />
   </component>
 </project>
