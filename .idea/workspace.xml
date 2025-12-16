@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update LinearRegression model">
-      <change afterPath="$PROJECT_DIR$/notebooks/check.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.2.RandomForest_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.2.RandomForest_Modeling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,7 @@
       <workItem from="1765771603105" duration="3840000" />
       <workItem from="1765776472712" duration="872000" />
       <workItem from="1765777350613" duration="4956000" />
-      <workItem from="1765847711012" duration="3985000" />
+      <workItem from="1765847711012" duration="5940000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -210,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765780939025</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update LinearRegression model">
+      <option name="closed" value="true" />
+      <created>1765859567671</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765859567671</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
