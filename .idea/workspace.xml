@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="add prediction and evaluation on the actual number of likes">
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="no change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1.0.clean_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/1.0.clean_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_NoLeakage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_NoLeakage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.0_LinearRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0_LinearRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +103,7 @@
       <workItem from="1765847711012" duration="8520000" />
       <workItem from="1765896301511" duration="5618000" />
       <workItem from="1765939309503" duration="1407000" />
-      <workItem from="1766037678441" duration="3491000" />
+      <workItem from="1766037678441" duration="6282000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -252,7 +257,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766038793257</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="version 2 modeling winsorize views&#10;+ standardscaler()">
+      <option name="closed" value="true" />
+      <created>1766041284856</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1766041284856</updated>
+    </task>
+    <task id="LOCAL-00021" summary="no change">
+      <option name="closed" value="true" />
+      <created>1766042254017</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1766042254017</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +295,8 @@
     <MESSAGE value="update modeling" />
     <MESSAGE value="additional modeling (no views, comments relevant features)" />
     <MESSAGE value="add prediction and evaluation on the actual number of likes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add prediction and evaluation on the actual number of likes" />
+    <MESSAGE value="version 2 modeling winsorize views&#10;+ standardscaler()" />
+    <MESSAGE value="no change" />
+    <option name="LAST_COMMIT_MESSAGE" value="no change" />
   </component>
 </project>
