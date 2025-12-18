@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update modeling">
-      <change afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_NoLeakage.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_NoLeakage.ipynb" afterDir="false" />
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="additional modeling (no views, comments relevant features)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,9 @@
       <workItem from="1765776472712" duration="872000" />
       <workItem from="1765777350613" duration="4956000" />
       <workItem from="1765847711012" duration="8520000" />
-      <workItem from="1765896301511" duration="1692000" />
+      <workItem from="1765896301511" duration="5618000" />
+      <workItem from="1765939309503" duration="1407000" />
+      <workItem from="1766037678441" duration="755000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -230,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765861817013</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="additional modeling (no views, comments relevant features)">
+      <option name="closed" value="true" />
+      <created>1765898139414</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765898139414</updated>
+    </task>
+    <task id="LOCAL-00018" summary="additional modeling (no views, comments relevant features)">
+      <option name="closed" value="true" />
+      <created>1765898296112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765898296112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +266,7 @@
     <MESSAGE value="update LinearRegression" />
     <MESSAGE value="update LinearRegression model" />
     <MESSAGE value="update modeling" />
-    <option name="LAST_COMMIT_MESSAGE" value="update modeling" />
+    <MESSAGE value="additional modeling (no views, comments relevant features)" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional modeling (no views, comments relevant features)" />
   </component>
 </project>
