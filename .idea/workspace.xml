@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="additional modeling (no views, comments relevant features)">
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="add prediction and evaluation on the actual number of likes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,7 @@
       <workItem from="1765847711012" duration="8520000" />
       <workItem from="1765896301511" duration="5618000" />
       <workItem from="1765939309503" duration="1407000" />
-      <workItem from="1766037678441" duration="755000" />
+      <workItem from="1766037678441" duration="3491000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -246,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765898296112</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add prediction and evaluation on the actual number of likes">
+      <option name="closed" value="true" />
+      <created>1766038793257</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1766038793257</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +273,7 @@
     <MESSAGE value="update LinearRegression model" />
     <MESSAGE value="update modeling" />
     <MESSAGE value="additional modeling (no views, comments relevant features)" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional modeling (no views, comments relevant features)" />
+    <MESSAGE value="add prediction and evaluation on the actual number of likes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add prediction and evaluation on the actual number of likes" />
   </component>
 </project>
