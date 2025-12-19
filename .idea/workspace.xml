@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update remove duplicates (no changes)">
+    <list default="true" id="f2ed5155-bcca-45b0-bf0e-815097119b4b" name="Changes" comment="update standardscaler for modeling">
+      <change afterPath="$PROJECT_DIR$/notebooks/check_1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3.0.datapreprocessing_featureengineering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_NoLeakage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0.LinearRegression_Modeling_NoLeakage.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/4.0_LinearRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.0_LinearRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/4.1.RigdeRegression_Modeling_FullFeatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/check.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/check.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,8 @@
       <workItem from="1765896301511" duration="5618000" />
       <workItem from="1765939309503" duration="1407000" />
       <workItem from="1766037678441" duration="6955000" />
-      <workItem from="1766122209320" duration="502000" />
+      <workItem from="1766122209320" duration="1156000" />
+      <workItem from="1766161139739" duration="1459000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, csv cleaned for eda">
       <option name="closed" value="true" />
@@ -282,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766044016908</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update standardscaler for modeling">
+      <option name="closed" value="true" />
+      <created>1766122747066</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1766122747066</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +315,7 @@
     <MESSAGE value="version 2 modeling winsorize views&#10;+ standardscaler()" />
     <MESSAGE value="no change" />
     <MESSAGE value="update remove duplicates (no changes)" />
-    <option name="LAST_COMMIT_MESSAGE" value="update remove duplicates (no changes)" />
+    <MESSAGE value="update standardscaler for modeling" />
+    <option name="LAST_COMMIT_MESSAGE" value="update standardscaler for modeling" />
   </component>
 </project>
